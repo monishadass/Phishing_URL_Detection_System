@@ -10,7 +10,7 @@ The project works by analyzing different features of a URL and then classifying 
 
 1. Download or clone the GitHub repository
    ```bash
-   git clone https://github.com/your-username/your-repository-name.git
+   git clone https://github.com/monishadass/Phishing_URL_Detection_System
 2. Open Code::Blocks IDE
 
 3. Click on File → Open
